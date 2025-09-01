@@ -1,9 +1,19 @@
 [
   {
     "name": "Minna No Nihongo",
-    "tags": ["Japanese", "Vocabulary"],
+    "tags": [
+      "Japanese",
+      "Vocabulary"
+    ],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Minna-No-Nihongo",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Minna-No-Nihongo/main/icon.png"
+  },
+  {
+    "name": "Book_8227",
+    "tags": [],
+    "author": "Akmal1309",
+    "repo": "https://github.com/MindForceLibrary/Book_8227",
+    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_8227/main/icon.png"
   }
 ]
