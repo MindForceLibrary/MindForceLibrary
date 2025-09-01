@@ -1,7 +1,10 @@
 [
   {
     "name": "Minna No Nihongo",
-    "tags": ["Japanese", "Vocabulary"],
+    "tags": [
+      "Japanese",
+      "Vocabulary"
+    ],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Minna-No-Nihongo",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Minna-No-Nihongo/main/icon.png"
@@ -22,16 +25,30 @@
   },
   {
     "name": "Book_2254",
-    "tags": ["g24gwr", "etbe4g", "dtnrtn"],
+    "tags": [
+      "g24gwr",
+      "etbe4g",
+      "dtnrtn"
+    ],
     "author": "Akmal1309",
     "repo": "https://github.com/MindForceLibrary/Book_2254",
     "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_2254/main/icon.png"
   },
   {
     "name": "Book_6371",
-    "tags": ["hdhdhdh", "djdjej"],
+    "tags": [
+      "hdhdhdh",
+      "djdjej"
+    ],
     "author": "Akmal1309",
     "repo": "https://github.com/MindForceLibrary/Book_6371",
     "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_6371/main/icon.png"
+  },
+  {
+    "name": "Book_867",
+    "tags": [],
+    "author": "Akmal Sadullaev",
+    "repo": "https://github.com/MindForceLibrary/Book_867",
+    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_867/main/icon.png"
   }
 ]
