@@ -3,76 +3,12 @@
     "name": "Minna No Nihongo",
     "tags": ["Japanese", "Vocabulary"],
     "author": "Akmal1309",
-    "repo": "Akmal1309/Minna-No-Nihongo",
-  },
-  {
-    "name": "Book_4277",
-    "tags": [],
-    "author": "Akmal1309",
-    "repo": "https://github.com/MindForceLibrary/Book_4277",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_4277/main/icon.png"
-  },
-  {
-    "name": "Book_3177",
-    "tags": [],
-    "author": "Akmal1309",
-    "repo": "https://github.com/MindForceLibrary/Book_3177",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_3177/main/icon.png"
-  },
-  {
-    "name": "Book_2254",
-    "tags": ["g24gwr", "etbe4g", "dtnrtn"],
-    "author": "Akmal1309",
-    "repo": "https://github.com/MindForceLibrary/Book_2254",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_2254/main/icon.png"
-  },
-  {
-    "name": "Book_6371",
-    "tags": ["hdhdhdh", "djdjej"],
-    "author": "Akmal1309",
-    "repo": "https://github.com/MindForceLibrary/Book_6371",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_6371/main/icon.png"
-  },
-  {
-    "name": "Book_8667",
-    "tags": [],
-    "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Book_8667",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_8667/main/icon.png"
-  },
-  {
-    "name": "Book_1159",
-    "tags": [],
-    "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Book_1159",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_1159/main/icon.png"
-  },
-  {
-    "name": "Book_4719",
-    "tags": [],
-    "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Book_4719",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_4719/main/icon.png"
-  },
-  {
-    "name": "Book_1225",
-    "tags": ["hetheth", "etnen"],
-    "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Book_1225",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_1225/main/icon.png"
-  },
-  {
-    "name": "Book_7941",
-    "tags": [],
-    "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Book_7941",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Book_7941/main/icon.png"
+    "repo": "Akmal1309/Minna-No-Nihongo"
   },
   {
     "name": "Akmal",
     "tags": ["AkmalJan"],
     "author": "Akmal Sadullaev",
-    "repo": "https://github.com/MindForceLibrary/Akmal",
-    "icon": "https://raw.githubusercontent.com/MindForceLibrary/Akmal/main/icon.png"
+    "repo": "MindForceLibrary/Akmal"
   }
 ]
