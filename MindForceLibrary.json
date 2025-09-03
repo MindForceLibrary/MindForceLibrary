@@ -46,5 +46,11 @@
     "tags": ["Tags0", "Tags1", "Test2"],
     "author": "Akmal Sadullaev",
     "repo": "MindForceLibrary/Test3"
+  },
+  {
+    "name": "Test4",
+    "tags": ["Tags0", "Tags1", "Test2"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Test4"
   }
 ]
