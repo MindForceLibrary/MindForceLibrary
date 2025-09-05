@@ -22,5 +22,11 @@
     "tags": ["Final", "Test"],
     "author": "Akmal Sadullaev",
     "repo": "MindForceLibrary/Final Test"
+  },
+  {
+    "name": "Test 3",
+    "tags": ["Final", "Test"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Test 3"
   }
 ]
