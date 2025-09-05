@@ -1,5 +1,5 @@
 [
-  {
+   {
     "name": "Minna No Nihongo",
     "tags": ["Japanese", "Vocabulary"],
     "author": "Akmal1309",
@@ -7,8 +7,8 @@
   },
   {
     "name": "Akmal",
-    "tags": ["Akmal", "Life"],
-    "author": "Akmal1309",
-    "repo": "MindForceLibarary/Akmal"
-  },
+    "tags": ["AkmalJan"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Akmal"
+  }
 ]
