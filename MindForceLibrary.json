@@ -10,5 +10,11 @@
     "tags": [],
     "author": "Akmal Sadullaev",
     "repo": "MindForceLibrary/hrheu"
+  },
+  {
+    "name": "Hello",
+    "tags": ["rhrheu"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Hello"
   }
 ]
