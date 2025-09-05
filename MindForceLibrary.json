@@ -16,5 +16,11 @@
     "tags": ["rhrheu"],
     "author": "Akmal Sadullaev",
     "repo": "MindForceLibrary/Hello"
+  },
+  {
+    "name": "Final Test",
+    "tags": ["Final", "Test"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Final Test"
   }
 ]
