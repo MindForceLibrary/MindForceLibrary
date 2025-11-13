@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "Minna No Nihongo",
     "tags": ["Japanese", "Vocabulary"],
     "author": "Akmal1309",
@@ -10,5 +10,11 @@
     "tags": ["План счетов", "Бухгалтерия"],
     "author": "Akmal Sadullaev",
     "repo": "Akmal1309/Accounting-chart-of-accounts"
+  },
+  {
+    "name": "Japanese Vocabulary",
+    "tags": ["Japanese", "Vocabulary", "N5", "JPLT"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Japanese Vocabulary"
   }
 ]
