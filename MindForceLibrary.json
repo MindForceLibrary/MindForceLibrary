@@ -22,5 +22,11 @@
     "tags": ["BH-223"],
     "author": "Akmal Sadullaev",
     "repo": "MindForceLibrary/Economic-analysis-2"
+  },
+  {
+    "name": "Финансовый отчетность",
+    "tags": ["BH-223"],
+    "author": "Akmal Sadullaev",
+    "repo": "MindForceLibrary/Moliyaviy-hisobot"
   }
 ]
